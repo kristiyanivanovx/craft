@@ -23,3 +23,12 @@
   }
 }
 ```
+
+3. To run the unit tests, right-click on the `Craft.Tests` project and click `Run Unit Tests`.
+
+![img.png](Documentation/UnitTests.png)
+
+4. To start the program, right-click on the `Craft` project and click `Run 'Craft'`.
+- Additional information is given by the program itself.
+
+![img.png](Documentation/RunProject.png)
